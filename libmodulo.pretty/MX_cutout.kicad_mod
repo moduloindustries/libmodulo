@@ -1,0 +1,16 @@
+(module MX_cutout (layer F.Cu) (tedit 6049199F)
+  (fp_text reference REF** (at 0.25 8.255) (layer Eco2.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MX_cutout (at 0 -8.255) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 7 7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -7 7) (end 7 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -7 -7) (end -7 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 7 -7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+)
