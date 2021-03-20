@@ -1,4 +1,6 @@
-(module HRO-TYPE-C-31-M-12 (layer F.Cu) (tedit 604DB97F)
+(module HRO-TYPE-C-31-M-12 (layer F.Cu) (tedit 60565EA2)
+  (descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
+  (tags "usb usb-c 2.0 pd")
   (solder_mask_margin 0.05)
   (solder_paste_margin 0.05)
   (clearance 0.05)
