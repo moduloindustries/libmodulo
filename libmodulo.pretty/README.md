@@ -7,6 +7,10 @@
 2.75x0.0375
 -----------
 
+128x64OLED
+----------
+Moved footprint to outline. Centered. Cleaned up. Adapted from https://github.com/pforrmi/KiCad-SSD1306-128x64
+
 D_SOD123
 --------
 Centered legend. Adapted from https://github.com/keebio/Keebio-Parts.pretty
