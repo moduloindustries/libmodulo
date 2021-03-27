@@ -1,0 +1,5 @@
+(module MountingHole_3.2mm (layer F.Cu) (tedit 60582477)
+  (descr "Mounting Hole 3.2mm, no annular")
+  (tags "mounting hole 3.2mm no annular")
+  (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
+)

@@ -1,0 +1,14 @@
+(module HexNut_4mm_M2 (layer F.Cu) (tedit 605821C3)
+  (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_line (start -1.732051 -1) (end -1.732051 1) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 1.732051 -1) (end 1.732051 1) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -1.732051 -1) (end 0 -2) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 0 -2) (end 1.732051 -1) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 1.732051 1) (end 0 2) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 0 2) (end -1.732051 1) (layer Edge.Cuts) (width 0.15))
+)
