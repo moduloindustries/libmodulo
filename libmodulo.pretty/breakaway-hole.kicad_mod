@@ -1,0 +1,3 @@
+(module breakaway-hole (layer F.Cu) (tedit 605818CD)
+  (pad "" np_thru_hole circle (at 0 0) (size 0.2 0.2) (drill 0.2) (layers *.Cu *.Mask))
+)
