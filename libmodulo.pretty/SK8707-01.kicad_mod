@@ -1,4 +1,4 @@
-(module SK8707-01 (layer F.Cu) (tedit 60C6B8F2)
+(module SK8707-01 (layer F.Cu) (tedit 60E37CCD)
   (descr "SK8707-01 FlexPoint™ Pointing Stick Mouse Module 3 Axis PS/2 Low Power Z-Tap CellMute™ Technology")
   (tags "SK8707-01 FlexPoint Pointing Stick Mouse Module 3 Axis PS/2 Low Power Z-Tap CellMute Technology")
   (fp_text reference REF** (at 0 5) (layer F.Fab)
@@ -51,4 +51,34 @@
   (pad 6 smd rect (at 1.08 21.96) (size 1.29 2.63) (layers B.Cu B.Paste B.Mask))
   (pad 8 smd rect (at 4.68 21.96) (size 1.29 2.63) (layers B.Cu B.Paste B.Mask))
   (pad 7 smd rect (at 2.88 21.96) (size 1.29 2.63) (layers B.Cu B.Paste B.Mask))
+  (model USB_C_Receptacle_HRO_TYPE-C-31-M-12
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+    (offset (xyz -9.5 4.1 -0.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+    (offset (xyz -9.5 0 -0.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+    (offset (xyz 9.5 4.1 -0.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+    (offset (xyz 9.5 0 -0.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/Trackpoint.step
+    (offset (xyz 0 0 -1.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
