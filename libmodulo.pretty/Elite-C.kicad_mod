@@ -216,9 +216,9 @@
   (pad 3 thru_hole circle (at -8.89 -7.62) (size 2.04 2.04) (drill 1.52) (layers *.Cu *.SilkS *.Mask))
   (pad 2 thru_hole circle (at -11.43 -7.62) (size 2.04 2.04) (drill 1.52) (layers *.Cu *.SilkS *.Mask))
   (pad 1 thru_hole rect (at -13.97 -7.62) (size 2.04 2.04) (drill 1.52) (layers *.Cu *.SilkS *.Mask))
-  (model /Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl
-    (offset (xyz -13.96999979019165 -7.619999885559082 -5.841999912261963))
-    (scale (xyz 0.395 0.395 0.395))
-    (rotate (xyz 90 180 180))
+  (model ${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/AlvaroTracks.step
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 -90))
   )
 )
