@@ -69,6 +69,6 @@
   (pad 2 thru_hole circle (at 0 5.9 180) (size 1.67 1.67) (drill 1.47) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -2.54 5.08 180) (size 2.25 2.25) (drill 1.47) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -2.5 4.5 266.1) (size 2.831378 2.25) (drill 1.47 (offset 0.290689 0)) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 4.8 4.8) (drill 4.8) (layers *.Cu *.Mask))
   (pad "" thru_hole oval (at 5 -5.15 180) (size 2.2 1.5) (drill oval 1 0.3) (layers *.Cu F.SilkS B.Mask))
 )
