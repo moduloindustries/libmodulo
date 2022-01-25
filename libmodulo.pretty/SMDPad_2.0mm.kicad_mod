@@ -1,6 +1,6 @@
 (module SMDPad_2.0mm (layer F.Cu) (tedit 61C4FEB6)
-  (descr "SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357")
-  (tags "Test Point")
+  (descr "SMD Pad")
+  (tags "SMDPad")
   (attr smd)
   (fp_text reference REF** (at 0 -3.15 90) (layer B.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -14,9 +14,4 @@
     (primitives
       (gr_arc (start 0 0) (end 0.5 0) (angle 180) (width 1))
     ))
-  (model ${KISYS3DMOD}/TestPoint.3dshapes/TestPoint_Keystone_5019_Minature.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
