@@ -5,7 +5,7 @@
   (solder_paste_margin 0.05)
   (clearance 0.05)
   (attr smd)
-  (fp_text reference REF** (at 0 -5.645) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.645 unlocked) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value USB_C_Receptacle_HRO_TYPE-C-31-M-12 (at 0 5.1) (layer F.Fab)

@@ -3,7 +3,7 @@
   (tedit 60E7EBEF)
   (descr "Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf")
   (attr smd)
-  (fp_text reference "S1" (at -4.7125 0 90) (layer "F.SilkS")
+  (fp_text reference "S1" (at -4.7125 0 -90 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9d35d2b2-8707-4866-943d-f1fc1b5c8945)
   )
