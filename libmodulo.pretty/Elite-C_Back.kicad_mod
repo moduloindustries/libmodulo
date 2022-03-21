@@ -216,6 +216,8 @@
   (pad 3 thru_hole circle (at -8.89 -7.62) (size 2.04 2.04) (drill 1.47) (layers *.Cu *.SilkS *.Mask))
   (pad 2 thru_hole circle (at -11.43 -7.62) (size 2.04 2.04) (drill 1.47) (layers *.Cu *.SilkS *.Mask))
   (pad 1 thru_hole rect (at -13.97 -7.62) (size 2.04 2.04) (drill 1.47) (layers *.Cu *.SilkS *.Mask))
+  (pad "" np_thru_hole oval (at -16.51 -6.35) (size 1.47 4.01) (drill oval 1.47 4.01) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at -16.51 6.35) (size 1.47 4.01) (drill oval 1.47 4.01) (layers *.Cu *.Mask))
   (model ${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/AlvaroTracks.step
     (offset (xyz 0 0 1.07))
     (scale (xyz 1 1 1))
