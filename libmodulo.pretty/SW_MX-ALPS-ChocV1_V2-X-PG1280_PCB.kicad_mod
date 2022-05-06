@@ -76,6 +76,6 @@
   (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/Choc X Switch + Custom Keycap.step"
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 -90))
   )
 )
