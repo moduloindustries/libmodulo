@@ -1,0 +1,172 @@
+(footprint "SW_PG1316M"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Footprint for Kailh PG1316M low profile switch")
+	(tags "Kailh PG1316 Switch")
+	(property "Reference" "REF**"
+		(at 0 -1.95 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "484cd1bf-c1c8-49bf-828c-f505f306885d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_PG1316M"
+		(at 0 -0.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f13fe93f-d913-4c9d-bfef-8f9b132f662b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 10.85 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b936d8b9-6dc7-4e96-9747-5ed58e40d4ae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b89fa756-936d-44fa-aa20-6eec8ccede68")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "caa868a1-2067-49c5-9642-3aded1cc9142")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(pad "" np_thru_hole circle
+		(at -5.8 0)
+		(size 1.0 1.0)
+		(drill 1.0)
+		(layers "*.Mask")
+		(uuid "76ce3cc3-653b-43bc-bb25-4ed7bbaa8494")
+	)
+	(pad "" np_thru_hole circle
+		(at 5.8 0)
+		(size 1.2 1.2)
+		(drill 1.25)
+		(layers "*.Mask")
+		(uuid "6a1d1f37-dd13-44df-a280-9c585a82b0bb")
+	)
+	(fp_rect
+		(start -6.75 -4.45)
+		(end 6.75 4.45)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "e4d1daaa-fd44-4463-b94c-0aa1f91f701d")
+	)
+	(fp_rect
+		(start -8 5.15)
+		(end 8 -5.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "c6ee7ca7-0f91-4bf2-8b14-a482349fa160")
+	)
+	(fp_rect
+		(start -8 5.65)
+		(end 8 -5.65)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "66b98f39-dfac-4a5a-9b2b-e3a5abc7d064")
+	)
+	(pad "1" smd rect
+		(at -2.5 0.7)
+		(size 1.55 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b16ef624-f803-4629-b8d3-ee13895d7e96")
+	)
+	(pad "2" smd rect
+		(at 2.5 0.7)
+		(size 1.55 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "583c2dd3-7257-4205-bf03-9b082d228f40")
+	)
+	(pad "MP" smd rect
+		(at -6.35 -3.95)
+		(size 2 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "e312cf65-691b-4c88-9647-c49e7179fa47")
+	)
+	(pad "MP" smd rect
+		(at -6.35 3.95)
+		(size 2 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "683f6387-90aa-4353-9dee-17bc5b8a40ef")
+	)
+	(pad "MP" smd rect
+		(at 6.35 -3.95)
+		(size 2 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "c83e9bdd-e09b-486a-aa22-105a7a5fdb89")
+	)
+	(pad "MP" smd rect
+		(at 6.35 3.95)
+		(size 2 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "f826a543-33f3-4940-aa71-eae2ebdd2a5e")
+	)
+	(model "/home/dennis/src/products/PG1316M.STEP"
+		(offset
+			(xyz 4.75 8.32 -10.33)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)
