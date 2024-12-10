@@ -2,7 +2,7 @@
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "libmodulo",
     "description": "A collection of symbols/footprints for keyboard design",
-    "description_full": "This library focuses on keyboard design, and features - among others - footprints for Cherry MX, Alps SKCM, Hi-Tek 725, Kailh Choc v1 and v2, and Gateron KS-33.",
+    "description_full": "This library focuses on keyboard design.",
     "identifier": "com.github.dennisleexyz.libmodulo",
     "type": "library",
     "author": {
