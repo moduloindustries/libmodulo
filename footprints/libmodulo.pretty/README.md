@@ -1,47 +1,47 @@
-0.25x1
-------
+## 0.25x1
 
-0.75x1
-------
 
-2.75x0.0375
------------
+## 0.75x1
 
-128x64OLED
-----------
+
+## 2.75x0.0375
+
+
+## 128x64OLED
+
 Moved footprint to outline. Centered. Cleaned up. Adapted from https://github.com/pforrmi/KiCad-SSD1306-128x64
 
-D_SOD123
---------
+## D_SOD123
+
 Centered legend. Adapted from https://github.com/keebio/Keebio-Parts.pretty
 
-HRO-TYPE-C-31-M-12
-------------------
+## HRO-TYPE-C-31-M-12
+
 Centered legend. Adapted from https://github.com/keebio/Keebio-Parts.pretty
 
-Kailh-PG1353-Choc-Switch
----------------------
+## Kailh-PG1353-Choc-Switch
+
 Choc v2.
 
-Kailh-PG1442-X-Switch
----------------------
+## Kailh-PG1442-X-Switch
 
-Kailh_Micro_Switch_6x6
-----------------------
+
+## Kailh_Micro_Switch_6x6
+
 Adapted from KiCad standard library.
 
-MX-ALPS-Choc-X-straight-oneside-mounting-bottom
------------------------------------------------
+## MX-ALPS-Choc-X-straight-oneside-mounting-bottom
+
 See MX-ALPS-Choc-X-straight-oneside. NPTH mounting hole added on bottom for M2
 press-fit standoff, sacrificing compatibility.
 
-MX-ALPS-Choc-X-straight-oneside-mounting-mid
---------------------------------------------
+## MX-ALPS-Choc-X-straight-oneside-mounting-mid
+
 See MX-ALPS-Choc-X-straight-oneside. NPTH mounting hole added on right side for
 M2 press-fit standoff, sacrificing compatibility.
 
-MX-ALPS-Choc-X-straight-oneside
--------------------------------
+## MX-ALPS-Choc-X-straight-oneside
+
 Switch compatibility:
 - MX
 - Alps
@@ -52,19 +52,19 @@ Switch compatibility:
 
 Adapted from https://github.com/saoto28/pineapple60/tree/main/KiCad
 
-PinHeader_1x01_P2.54mm_Horizontal
----------------------------------
+## PinHeader_1x01_P2.54mm_Horizontal
+
 Moved legend.
 
-SK6812MINI
-----------
+## SK6812MINI
+
 Centered legend. Adapted from KiCad standard library
 
-SK8707
-------
+## SK8707
+
 Sprintek FlexPoint module.
 
-TRRS-PJ-320
------------
+## TRRS-PJ-320
+
 Through-hole (320A) and surface-mount (320D) versions merged. Adapted from
 https://github.com/keebio/Keebio-Parts.pretty 
