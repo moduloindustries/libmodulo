@@ -13,7 +13,7 @@
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/Choc X Switch + Custom Keycap.step"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/Choc X Switch + Custom Keycap.step"
     (offset (xyz 0 0 0.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

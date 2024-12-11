@@ -45,7 +45,7 @@
   (pad 13 thru_hole oval (at 4.32 -6.78) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask))
   (pad 13 thru_hole oval (at -4.32 -2.6) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
   (pad 13 thru_hole oval (at 4.32 -2.6) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/HRO  TYPE-C-31-M-12.step"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/HRO  TYPE-C-31-M-12.step"
     (offset (xyz -4.45 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

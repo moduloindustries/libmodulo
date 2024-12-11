@@ -37,7 +37,7 @@
   (pad "1" smd rect (at 3.4 -2) (size 3.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e4735a8a-49de-475d-a8bf-68ce1e9c5578))
   (pad "2" smd rect (at -3.4 2) (size 3.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7dbfc88e-c0f6-4bcf-9948-b1e1fc77098c))
   (pad "2" smd rect (at 3.4 2) (size 3.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bfbc4ccc-efbb-452f-8ca3-3c776d261a8a))
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/evq*q2*3w.step"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/evq*q2*3w.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

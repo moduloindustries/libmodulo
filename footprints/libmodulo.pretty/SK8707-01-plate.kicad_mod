@@ -51,47 +51,47 @@
   (pad "" np_thru_hole circle (at -4.75 -4.75) (size 2 2) (drill 2) (layers *.Cu *.Mask))
   (pad "" smd circle (at -4.75 4.75) (size 3 3) (layers F.SilkS))
   (pad "" np_thru_hole circle (at -4.75 4.75) (size 2 2) (drill 2) (layers *.Cu *.Mask))
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz -9.5 4.1 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz -9.5 0 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz 9.5 4.1 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz 9.5 0 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz -4.75 4.75 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz -4.75 -4.75 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz 4.75 4.75 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
+  (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/91305A102_JCIS STEEL PHILLIPS FLAT HEAD SCREW.STEP"
     (offset (xyz 4.75 -4.75 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KIPRJMOD}/libmodulo/libmodulo.pretty/3dmodels/Trackpoint.step
+  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/Trackpoint.step
     (offset (xyz 0 0 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

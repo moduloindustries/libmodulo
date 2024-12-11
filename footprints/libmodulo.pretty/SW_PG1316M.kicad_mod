@@ -158,7 +158,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "f826a543-33f3-4940-aa71-eae2ebdd2a5e")
 	)
-	(model "/home/dennis/src/products/PG1316M.STEP"
+	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/com_github_dennisleexyz_libmodulo/PG1316M.STEP"
 		(offset
 			(xyz 4.75 8.32 -10.33)
 		)
